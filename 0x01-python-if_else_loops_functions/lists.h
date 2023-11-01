@@ -3,9 +3,9 @@
 #include <stddef.h>
 
 /**
- * struct listint_s - singly linked list
- * @n: integer
- * @next: points to the next node
+ * struct listint_s - Singly linked list
+ * @n: integer !
+ * @next: Points to the next node
  *
  * Description: singly linked list node structure
  *
