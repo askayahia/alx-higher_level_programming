@@ -4,9 +4,9 @@
 #include <stdlib.h>
 
 /**
- * struct listint_s - singly linked list
+ * struct listint_s - A singly linked list
  * @n: integer
- * @next: points to the next node
+ * @next: Point to the next node
  *
  * Description: singly linked list node structure
  *
